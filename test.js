@@ -7,5 +7,6 @@ const substract = (num1, num2) => num1 - num2;
 
 const multiply = (num1, num2) => num1 * num2;
 
+// Another comment
 // Testing the function
 console.log(`The result of ${num1} + ${num2} is: ${sum(num1, num2)}`);
