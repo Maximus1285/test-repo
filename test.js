@@ -12,3 +12,5 @@ const multiply = (num1, num2) => num1 * num2;
 
 // Testing the function
 console.log(`The result of ${num1} + ${num2} is: ${sum(num1, num2)}`);
+
+//test command
