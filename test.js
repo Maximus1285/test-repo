@@ -3,7 +3,7 @@ const sum = (num1, num2) => num1 + num2;
 num1 = 2;
 num2 = 3;
 
-
+const value =3;
 
 
 // test
