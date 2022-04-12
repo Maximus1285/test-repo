@@ -10,3 +10,10 @@ const multiply = (num1, num2) => num1 * num2;
 // Another comment
 // Testing the function
 console.log(`The result of ${num1} + ${num2} is: ${sum(num1, num2)}`);
+
+const sayHi = (name) => console.log(`Hi ${name}, how's it going?`);
+
+const formatText = (text) => {
+  text = `${text.toLocaleUpperCase()} - formatted`;
+  return `The new string is: ${text}`;
+}
