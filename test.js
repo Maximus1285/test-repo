@@ -20,3 +20,5 @@ const formatText = (text) => {
   console.log('hello world');
   return `The new string is: ${text}`;
 }
+
+const addNumbers = (num1, num2) => num1 + num2;
