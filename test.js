@@ -12,8 +12,6 @@ function myNewFunction() {
 // Testing the function edit comment here too
 console.log(`The result of ${num1} + ${num2} is: ${sum(num1, num2)}`);
 
-const sayHi = (name) => console.log(`Hi ${name}, how's it going?`);
-
 const formatText = (text) => {
   console.log('Another print here')
   text = `${text.toLocaleUpperCase()} - formatted`;
