@@ -4,8 +4,9 @@ const multiply = (num1, num2) => {
 }
 
 function myNewFunction() {
-  // This is swesome
+  // This is awesome
   console.log('Awesome function');
+  return 'This is an awesome function';
 }
 // Another comment adding some more comments edited comment here
 // Testing the function edit comment here too
